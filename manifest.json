@@ -1,0 +1,10 @@
+{
+  "id": "cfa-scheduler",
+  "name": "CFA Level 1 Scheduler",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "CFA Level 1 study tracker with weekly goals, progress tracking, and revision alerts.",
+  "author": "Ittesaf",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
