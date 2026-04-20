@@ -14,7 +14,7 @@
 const { Plugin, PluginSettingTab, Setting, ItemView, WorkspaceLeaf, Modal, Notice, MarkdownView, TFile } = require('obsidian');
 
 // ─── SYLLABUS DATA ────────────────────────────────────────────────────────────
-const EXAM_DATE = "2026-11-11";
+const EXAM_DATE = "2027-02-01";
 
 const SUBJECTS = [
   { id:"QA",  name:"Quantitative Methods",            totalModules:11, color:"#4F86C6" },
